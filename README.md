@@ -8,4 +8,4 @@
 
 ---
 
-[![HitCount](http://hits.dwyl.com/shinyay/shinyay.svg)](http://hits.dwyl.com/shinyay/shinyay)
+![HitCount](http://hits.dwyl.com/shinyay/shinyay.svg)
