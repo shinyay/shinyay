@@ -9,3 +9,4 @@
 ---
 
 ![HitCount](http://hits.dwyl.com/shinyay/shinyay.svg)
+![ViewCount](https://views.whatilearened.today/views/github/shinyay/views.svg)
