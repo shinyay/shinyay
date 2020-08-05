@@ -5,3 +5,5 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shinyay&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515">
 </p>
+---
+[![HitCount](http://hits.dwyl.com/shinyay/shinyay.svg)](http://hits.dwyl.com/shinyay/shinyay)
