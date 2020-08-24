@@ -7,5 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinyay&theme=blue-green&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyay&theme=blue-green&layout=compact" />
 </a>
+
 ---
+
 ![ViewCount](https://views.whatilearened.today/views/github/shinyay/views.svg)
